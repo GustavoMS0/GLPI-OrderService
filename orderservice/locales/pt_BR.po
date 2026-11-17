@@ -1,0 +1,286 @@
+# Portuguese (Brazil) translation
+# Copyright (C) 2026 by G. Martins
+# This file is distributed under the same license as the plugin (GPLv3+).
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0.0\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Actions"
+msgstr "Ações"
+
+msgid "Add Item"
+msgstr "Adicionar item"
+
+msgid "Allow external clients to sign via one-time remote link without GLPI login"
+msgstr "Permitir que clientes externos assinem por link remoto de uso único sem login no GLPI"
+
+msgid "Cancel Order"
+msgstr "Cancelar OS"
+
+msgid "Cancelled"
+msgstr "Cancelada"
+
+msgid "Clear"
+msgstr "Limpar"
+
+msgid "Client signature"
+msgstr "Assinatura do cliente"
+
+msgid "Company document (Tax ID / CNPJ)"
+msgstr "Documento da empresa (CNPJ / CPF)"
+
+msgid "Company name"
+msgstr "Nome da empresa"
+
+msgid "Complete Signature"
+msgstr "Concluir assinatura"
+
+msgid "Confirm and Sign Service Order"
+msgstr "Confirmar e Assinar Ordem de Serviço"
+
+msgid "Could not add item. Check description and amounts."
+msgstr "Não foi possível adicionar o item. Verifique a descrição e os valores."
+
+msgid "Could not cancel Service Order."
+msgstr "Não foi possível cancelar a Ordem de Serviço."
+
+msgid "Could not create Service Order."
+msgstr "Não foi possível criar a Ordem de Serviço."
+
+msgid "Could not generate remote signature link."
+msgstr "Não foi possível gerar o link de assinatura remota."
+
+msgid "Could not remove item."
+msgstr "Não foi possível remover o item."
+
+msgid "Could not update Service Order."
+msgstr "Não foi possível atualizar a Ordem de Serviço."
+
+msgid "Created at"
+msgstr "Criada em"
+
+msgid "Cross-origin request rejected."
+msgstr "Requisição de origem cruzada rejeitada."
+
+msgid "Currency symbol"
+msgstr "Símbolo monetário"
+
+msgid "Default travel fee"
+msgstr "Taxa padrão de deslocamento"
+
+msgid "Describe diagnosis, executed services, and observations..."
+msgstr "Descreva o diagnóstico, os serviços executados e observações..."
+
+msgid "Description"
+msgstr "Descrição"
+
+msgid "Draft"
+msgstr "Rascunho"
+
+msgid "Draw signature above"
+msgstr "Desenhe a assinatura acima"
+
+msgid "Generate Remote Signature Link"
+msgstr "Gerar link de assinatura remota"
+
+msgid "Generate Service Order"
+msgstr "Gerar Ordem de Serviço"
+
+msgid "In-person signature"
+msgstr "Assinatura presencial"
+
+msgid "Invalid or expired form session. Please reload the link."
+msgstr "Sessão de formulário inválida ou expirada. Recarregue o link."
+
+msgid "Invalid signer name or PNG signature payload."
+msgstr "Nome do signatário ou assinatura PNG inválidos."
+
+msgid "Invalid technician PNG signature payload."
+msgstr "Assinatura PNG do técnico inválida."
+
+msgid "Item added to Service Order."
+msgstr "Item adicionado à Ordem de Serviço."
+
+msgid "Item removed from Service Order."
+msgstr "Item removido da Ordem de Serviço."
+
+msgid "Items Subtotal"
+msgstr "Subtotal de itens"
+
+msgid "Items and Services"
+msgstr "Itens e Serviços"
+
+msgid "Material"
+msgstr "Material"
+
+msgid "New Service Order"
+msgstr "Nova Ordem de Serviço"
+
+msgid "No items added yet."
+msgstr "Nenhum item adicionado até o momento."
+
+msgid "No items registered."
+msgstr "Nenhum item registrado."
+
+msgid "No service orders have been created for this ticket yet."
+msgstr "Nenhuma ordem de serviço foi criada para este chamado até o momento."
+
+msgid "One-time remote signature link generated."
+msgstr "Link de assinatura remota de uso único gerado."
+
+msgid "Order %s has been signed by %s."
+msgstr "A Ordem de Serviço %s foi assinada por %s."
+
+msgid "Order Service"
+msgstr "Ordem de Serviço"
+
+msgid "Order Service Configuration"
+msgstr "Configuração do Order Service"
+
+msgid "Order Service configuration saved successfully."
+msgstr "Configurações do Order Service salvas com sucesso."
+
+msgid "Pending signature"
+msgstr "Aguardando assinatura"
+
+msgid "Please provide a valid PNG signature."
+msgstr "Informe uma assinatura PNG válida."
+
+msgid "Please provide the signer full name."
+msgstr "Informe o nome completo do signatário."
+
+msgid "Print"
+msgstr "Imprimir"
+
+msgid "Print Service Order"
+msgstr "Imprimir Ordem de Serviço"
+
+msgid "Qty"
+msgstr "Qtd"
+
+msgid "Remote Service Order Signature"
+msgstr "Assinatura Remota de Ordem de Serviço"
+
+msgid "Remote signature link expiration (hours)"
+msgstr "Validade do link de assinatura remota (horas)"
+
+msgid "Remote signature link for %s (shown once):"
+msgstr "Link de assinatura remota para %s (exibido uma única vez):"
+
+msgid "Remove"
+msgstr "Remover"
+
+msgid "Save settings"
+msgstr "Salvar configurações"
+
+msgid "Service"
+msgstr "Serviço"
+
+msgid "Service Order"
+msgstr "Ordem de Serviço"
+
+msgid "Service Order %s created successfully."
+msgstr "Ordem de Serviço %s criada com sucesso."
+
+msgid "Service Order cancelled."
+msgstr "Ordem de Serviço cancelada."
+
+msgid "Service Order signed successfully"
+msgstr "Ordem de Serviço assinada com sucesso"
+
+msgid "Service Order signed successfully."
+msgstr "Ordem de Serviço assinada com sucesso."
+
+msgid "Service Order updated successfully."
+msgstr "Ordem de Serviço atualizada com sucesso."
+
+msgid "Service Orders"
+msgstr "Ordens de Serviço"
+
+msgid "Signature Unavailable"
+msgstr "Assinatura Indisponível"
+
+msgid "Signature captured"
+msgstr "Assinatura capturada"
+
+msgid "Signature link is invalid, expired, or has already been used."
+msgstr "O link de assinatura é inválido, expirou ou já foi utilizado."
+
+msgid "Signature required"
+msgstr "Assinatura obrigatória"
+
+msgid "Signed"
+msgstr "Assinada"
+
+msgid "Signed at"
+msgstr "Assinada em"
+
+msgid "Signer full name"
+msgstr "Nome completo do signatário"
+
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgid "Technical summary"
+msgstr "Resumo técnico"
+
+msgid "Technician"
+msgstr "Técnico"
+
+msgid "Technician signature"
+msgstr "Assinatura do técnico"
+
+msgid "Technician signature (optional)"
+msgstr "Assinatura do técnico (opcional)"
+
+msgid "Terms and footer notes"
+msgstr "Termos e observações de rodapé"
+
+msgid "This plugin requires GLPI >= %1$s and <= %2$s."
+msgstr "Este plugin requer GLPI >= %1$s e <= %2$s."
+
+msgid "This plugin requires PHP >= %s."
+msgstr "Este plugin requer PHP >= %s."
+
+msgid "Ticket"
+msgstr "Chamado"
+
+msgid "Ticket #%d"
+msgstr "Chamado #%d"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Travel"
+msgstr "Deslocamento"
+
+msgid "Travel fee"
+msgstr "Deslocamento"
+
+msgid "Travel fee (%s)"
+msgstr "Taxa de deslocamento (%s)"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Unable to complete signature."
+msgstr "Não foi possível concluir a assinatura."
+
+msgid "Unable to save the signature."
+msgstr "Não foi possível salvar a assinatura."
+
+msgid "Unit Price"
+msgstr "Valor Unit."
+
+msgid "Update OS"
+msgstr "Atualizar OS"
+
+msgid "User #%d"
+msgstr "Usuário #%d"
+

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <name>Order Service</name>
+   <key>orderservice</key>
+   <state>stable</state>
+   <logo>https://raw.githubusercontent.com/GustavoMS0/GLPI-OrderService/main/orderservice.png</logo>
+   <description>
+      <short>
+         <en>Digital Service Orders linked to GLPI tickets with items, travel fee, PNG canvas signatures, remote signing links, and printable view.</en>
+         <pt>Ordens de Serviço digitais vinculadas a chamados do GLPI com itens, deslocamento, assinatura em canvas PNG, link remoto e impressão.</pt>
+      </short>
+      <long>
+         <en>Order Service enables field technicians and service desk teams on GLPI 10, 11, and 12 to issue sequentially numbered Service Orders (OS-YYYY-000001) directly inside Tickets. Supports itemized services, materials, and travel fees calculated in exact integer cents, in-person and one-time remote signature capture with strict binary PNG validation, authorized printable sheets, and automatic cleanup on ticket purge.</en>
+         <pt>O Order Service permite que equipes de campo e service desk no GLPI 10, 11 e 12 emitam Ordens de Serviço com numeração sequencial (OS-YYYY-000001) diretamente nos chamados. Suporta itens de serviço, material e deslocamento calculados com precisão em centavos inteiros, assinatura presencial e remota por link de uso único com validação binária estrita de PNG, visualização imprimível autorizada e limpeza automática ao expurgar o chamado.</pt>
+      </long>
+   </description>
+   <homepage>https://github.com/GustavoMS0/GLPI-OrderService</homepage>
+   <download>https://github.com/GustavoMS0/GLPI-OrderService/releases</download>
+   <issues>https://github.com/GustavoMS0/GLPI-OrderService/issues</issues>
+   <readme>https://github.com/GustavoMS0/GLPI-OrderService/blob/main/README.md</readme>
+   <authors>
+      <author>G. Martins</author>
+   </authors>
+   <versions>
+      <version>
+         <num>1.0.0</num>
+         <compatibility>~10.0.0 || ~11.0.0 || ~12.0.0</compatibility>
+         <download_url>https://github.com/GustavoMS0/GLPI-OrderService/releases/download/v1.0.0/orderservice-1.0.0.zip</download_url>
+      </version>
+   </versions>
+   <langs>
+      <lang>pt_BR</lang>
+   </langs>
+   <license>GPLv3+</license>
+   <tags>
+      <en>
+         <tag>service-order</tag>
+         <tag>ticket</tag>
+         <tag>signature</tag>
+         <tag>field-service</tag>
+         <tag>print</tag>
+      </en>
+      <pt>
+         <tag>ordem-de-serviço</tag>
+         <tag>chamado</tag>
+         <tag>assinatura</tag>
+         <tag>atendimento-em-campo</tag>
+         <tag>impressão</tag>
+      </pt>
+   </tags>
+</root>

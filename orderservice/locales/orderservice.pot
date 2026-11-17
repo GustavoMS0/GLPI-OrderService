@@ -1,0 +1,284 @@
+# Order Service - Translation Template
+# Copyright (C) 2026 by G. Martins
+# This file is distributed under the same license as the Order Service package (GPLv3+).
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Order Service 1.0.0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Actions"
+msgstr ""
+
+msgid "Add Item"
+msgstr ""
+
+msgid "Allow external clients to sign via one-time remote link without GLPI login"
+msgstr ""
+
+msgid "Cancel Order"
+msgstr ""
+
+msgid "Cancelled"
+msgstr ""
+
+msgid "Clear"
+msgstr ""
+
+msgid "Client signature"
+msgstr ""
+
+msgid "Company document (Tax ID / CNPJ)"
+msgstr ""
+
+msgid "Company name"
+msgstr ""
+
+msgid "Complete Signature"
+msgstr ""
+
+msgid "Confirm and Sign Service Order"
+msgstr ""
+
+msgid "Could not add item. Check description and amounts."
+msgstr ""
+
+msgid "Could not cancel Service Order."
+msgstr ""
+
+msgid "Could not create Service Order."
+msgstr ""
+
+msgid "Could not generate remote signature link."
+msgstr ""
+
+msgid "Could not remove item."
+msgstr ""
+
+msgid "Could not update Service Order."
+msgstr ""
+
+msgid "Created at"
+msgstr ""
+
+msgid "Cross-origin request rejected."
+msgstr ""
+
+msgid "Currency symbol"
+msgstr ""
+
+msgid "Default travel fee"
+msgstr ""
+
+msgid "Describe diagnosis, executed services, and observations..."
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "Draw signature above"
+msgstr ""
+
+msgid "Generate Remote Signature Link"
+msgstr ""
+
+msgid "Generate Service Order"
+msgstr ""
+
+msgid "In-person signature"
+msgstr ""
+
+msgid "Invalid or expired form session. Please reload the link."
+msgstr ""
+
+msgid "Invalid signer name or PNG signature payload."
+msgstr ""
+
+msgid "Invalid technician PNG signature payload."
+msgstr ""
+
+msgid "Item added to Service Order."
+msgstr ""
+
+msgid "Item removed from Service Order."
+msgstr ""
+
+msgid "Items Subtotal"
+msgstr ""
+
+msgid "Items and Services"
+msgstr ""
+
+msgid "Material"
+msgstr ""
+
+msgid "New Service Order"
+msgstr ""
+
+msgid "No items added yet."
+msgstr ""
+
+msgid "No items registered."
+msgstr ""
+
+msgid "No service orders have been created for this ticket yet."
+msgstr ""
+
+msgid "One-time remote signature link generated."
+msgstr ""
+
+msgid "Order %s has been signed by %s."
+msgstr ""
+
+msgid "Order Service"
+msgstr ""
+
+msgid "Order Service Configuration"
+msgstr ""
+
+msgid "Order Service configuration saved successfully."
+msgstr ""
+
+msgid "Pending signature"
+msgstr ""
+
+msgid "Please provide a valid PNG signature."
+msgstr ""
+
+msgid "Please provide the signer full name."
+msgstr ""
+
+msgid "Print"
+msgstr ""
+
+msgid "Print Service Order"
+msgstr ""
+
+msgid "Qty"
+msgstr ""
+
+msgid "Remote Service Order Signature"
+msgstr ""
+
+msgid "Remote signature link expiration (hours)"
+msgstr ""
+
+msgid "Remote signature link for %s (shown once):"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Save settings"
+msgstr ""
+
+msgid "Service"
+msgstr ""
+
+msgid "Service Order"
+msgstr ""
+
+msgid "Service Order %s created successfully."
+msgstr ""
+
+msgid "Service Order cancelled."
+msgstr ""
+
+msgid "Service Order signed successfully"
+msgstr ""
+
+msgid "Service Order signed successfully."
+msgstr ""
+
+msgid "Service Order updated successfully."
+msgstr ""
+
+msgid "Service Orders"
+msgstr ""
+
+msgid "Signature Unavailable"
+msgstr ""
+
+msgid "Signature captured"
+msgstr ""
+
+msgid "Signature link is invalid, expired, or has already been used."
+msgstr ""
+
+msgid "Signature required"
+msgstr ""
+
+msgid "Signed"
+msgstr ""
+
+msgid "Signed at"
+msgstr ""
+
+msgid "Signer full name"
+msgstr ""
+
+msgid "Subtotal"
+msgstr ""
+
+msgid "Technical summary"
+msgstr ""
+
+msgid "Technician"
+msgstr ""
+
+msgid "Technician signature"
+msgstr ""
+
+msgid "Technician signature (optional)"
+msgstr ""
+
+msgid "Terms and footer notes"
+msgstr ""
+
+msgid "This plugin requires GLPI >= %1$s and <= %2$s."
+msgstr ""
+
+msgid "This plugin requires PHP >= %s."
+msgstr ""
+
+msgid "Ticket"
+msgstr ""
+
+msgid "Ticket #%d"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Travel"
+msgstr ""
+
+msgid "Travel fee"
+msgstr ""
+
+msgid "Travel fee (%s)"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Unable to complete signature."
+msgstr ""
+
+msgid "Unable to save the signature."
+msgstr ""
+
+msgid "Unit Price"
+msgstr ""
+
+msgid "Update OS"
+msgstr ""
+
+msgid "User #%d"
+msgstr ""
+
